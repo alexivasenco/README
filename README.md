@@ -6,6 +6,7 @@ Technologies, specializing in software development and IT systems. Over the past
 solid foundation in a variety of IT disciplines, including network administration, database management,
 and software engineering, allowing me to develop a versatile skill set.
 
+
 DIGITAL SKILLS
 
 Web Development:
@@ -18,6 +19,7 @@ Programming Languages:
 C++ / Java (basic)
 Oce Tools:
 Microsoft Oce (Word, Excel, PowerPoint, Acces) 
+
 
 LANGUAGE SKILLS
 
