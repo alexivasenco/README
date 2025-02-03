@@ -1,11 +1,13 @@
 # README
 ABOUT ME
+
 I am a highly motivated 4th-year student at the Center of Excellence in Informatics and Information
 Technologies, specializing in software development and IT systems. Over the past four years, I have built a
 solid foundation in a variety of IT disciplines, including network administration, database management,
 and software engineering, allowing me to develop a versatile skill set.
 
 DIGITAL SKILLS
+
 Web Development:
 HTML, CSS, JavaScript, PHP / ASP.NET
 Database Management:
@@ -18,6 +20,7 @@ Oce Tools:
 Microsoft Oce (Word, Excel, PowerPoint, Acces) 
 
 LANGUAGE SKILLS
+
 Mother tongue(s): Romanian 
 Other language(s):
 Russian
